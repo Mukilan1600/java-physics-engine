@@ -2,6 +2,8 @@
 A physics engine built using JAVA Swing
 
 ## Preview
+(Small square is controlled using keyboard inputs)
+
 ![preview](https://github.com/Mukilan1600/java-physics-engine/raw/master/markdown/preview.gif)
 
 ## Reference
